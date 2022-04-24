@@ -111,7 +111,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <!-- Link Live Demo -->
 
 ### Link Live Demo
-[Live Github Portafolio](http://jesse-garciabankingapp.s3-website.ca-central-1.amazonaws.com/#/)
+[Live AWS S3](http://jesse-garciabankingapp.s3-website.ca-central-1.amazonaws.com/#/)
 
 
 To install this MITxPRO GitHub page project in your local machine, follow these steps:
